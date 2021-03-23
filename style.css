@@ -1,0 +1,31 @@
+.header {
+    background-color: palegoldenrod;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+.bodyImg {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: pink;
+}
+
+.grid img {
+    border-radius: 20px;
+    border: 2px solid black; 
+
+    display: flex;
+    justify-content: space-between;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+origami {
+    font-family: fantasy;
+}
